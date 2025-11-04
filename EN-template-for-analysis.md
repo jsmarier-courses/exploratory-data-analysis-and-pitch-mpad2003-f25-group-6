@@ -1,6 +1,8 @@
-**Date**<br>
+**Date TBD**<br>
 **Course Code & Course Name**<br>
+**MPAD 2002A Introductory Data Storytelling**<br>
 **Student's First Name & Last Name**<br>
+**Gabriel Castillo, Avery O'Donnell, Tina-lise Kostopoulos**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
 # Exploratory Data Analysis (EDA) & Pitch
@@ -22,9 +24,13 @@ Did you notice how to create a hyperlink? In Markdown, we put the clickable text
 
 And to create an unordered list, we simply put a star (`*`) before each item.
 
-## 1. Introduction
+# 1. Introduction
 
-Insert text here.
+For this assignment, we will be analyzing a City of Ottawa dataset of information in the different wards of Ottawa. The dataset was gathered by survey and includes information about the number of people per household, as well as their income and employment status, divided by their ward/living location. It also states the ages of the people. In the first section, we will explain how we got the dataset and the information that we are using. In the following sections, we will be assessing the accuracy of the dataset as well as exploring the data and analyzing it for a potential story.    
+
+Teachers URL: https://raw.githubusercontent.com/jsmarier/files-for-course-assignments/refs/heads/main/2021_Long_Form_Census_-_Ward_Data.csv                                 
+
+Original Dataset: https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore
 
 ## 2. Getting Data
 
