@@ -41,6 +41,20 @@ To include a screen capture, use the sample code below. Your images should be sa
 ![](import-screen-capture.png)<br>
 *Figure 1: The "Import file" prompt on Google Sheets.*
 
+To begin, we imported the dataset into Google Sheets to make it easier to view, clean and analyze. We opened a new Google Sheet, clicked File, Import, Upload, and selected the CSV file from my computer. When prompted,we chose “Insert new sheet(s)” so the data appeared in a new tab while keeping the headers intact. Once the file loaded, the column headings automatically appeared in the first row, followed by 2,602 rows of data.
+Below is a screenshot of the dataset immediately after importation:
+
+The dataset contains 26 columns and 2,602 rows, each representing demographic information from the City of Ottawa’s census data. Overall, the spreadsheet appears well structured, but there are a few inconsistencies and missing entries. Some ward names differ slightly from those listed on the City of Ottawa’s official website, which may indicate older ward boundaries or formatting errors. There are also a few blank cells where data may have been suppressed for privacy or unavailable at the time of collection. 
+Analyzing 3 columns:
+
+Column A (“Characteristics”) contains nominal variables describing each demographic measure (for example, total population, age groups, or median age).
+
+Column B (“City of Ottawa”) holds numerical data summarizing citywide totals or percentages.
+Column C through Z represent individual wards, each containing quantitative values for the same characteristics. 
+
+One notable observation is that some wards with similar total populations have very different median ages and household structures. This raises the question: how do demographic characteristics, such as household sizes or age distribution, influence income levels across Ottawa’s wards?
+
+
 **Here are examples of functions and lines of code put in grey boxes:**
 
 1. If you name a function, put it between "angled" quotation marks like this: `IMPORTHTML`.
