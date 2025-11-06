@@ -91,6 +91,14 @@ Insert text here.
 
 Insert text here.
 
+Here is the Pivot Table made during the EDA as well as the chart.
+![](Pivot_table.png)<br>
+
+![](3.3_Chart.png)<br>
+
+
+
+
 **This section should include a screen capture of your pivot table, like so:**
 
 ![](pivot-table-screen-capture.png)<br>
