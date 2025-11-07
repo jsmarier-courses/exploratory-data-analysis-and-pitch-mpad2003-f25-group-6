@@ -90,7 +90,7 @@ Image of frozen rows and isolated data:
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
-Insert text here.
+We chose the variables of the people living in private households and whether or not they live alone or with relatives, and compared them to the average income of the ward, because we wanted to see if there might be a correlation between the two. We were thinking that maybe certain jobs that pay well may lead to more families, and vice versa. The particular statistics that stand out are wards 17 and 15, which have the highest average income. The reason we felt that they stood out the most was that while they have the most income, they aren’t leaning towards living with families, but rather living alone or with non-relatives. This is what gets us to our potential story. We think that by exploring these numbers, it might reveal a pattern of affordability and access to resources across the city and how this affects financial stability and quality of life, and also maybe a link to the higher household income, maybe be linked to more people renting out rooms in the household rather than the house as a whole.
 
 Here is the Pivot Table made during the EDA as well as the chart.
 ![](Pivot_table.png)<br>
