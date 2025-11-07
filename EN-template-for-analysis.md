@@ -76,7 +76,10 @@ Our Census dataset from the City of Ottawa includes a wide range of information.
 
 The VIMO analysis covers four main sections: Valid, Invalid, Missing, and Outlier data, in order to identify potential data quality issues and ensure data accuracy before being used in our research and analysis. When it came to performing this analysis, we were able to confirm with our initial sweep that none of the data was missing (every section was filled out), and none of the data was invalid (every section was filled out properly, not with invalid or misplaced data). In terms of data Validity, it was an officially conducted City of Ottawa Census, so we count the data as valid. In terms of outliers, there weren’t any that really stood out in either category. The following images display a more detailed analysis of possible outliers, as well as quartiles, etc. 
 
-
+Image 1: Individuals Living in Households
+![](quartile_analysis_of_individuals_in_households.png)<br>
+Image 2: Average Incomes in 2019:
+![](quartile_analysis_of_incomes%20.png)<br>
 
 ### 3.2. Cleaning Data
 
