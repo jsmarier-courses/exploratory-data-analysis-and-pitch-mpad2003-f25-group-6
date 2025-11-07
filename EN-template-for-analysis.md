@@ -72,6 +72,8 @@ This also shows how to create an ordered list. Simply put `1.` before each item.
 
 ### 3.1. VIMO Analysis
 
+Our Census dataset from the City of Ottawa includes a wide range of information. The information types are separated by wards, such as Orleans East/West, Barrhaven, etc. These sections allow for all the data to be presented to the user in an organized, accessible way. The data can range from finance (incomes, rents, etc.) to the number of people per household, who is employed, etc. We decided to focus on the number of people in each household and how it correlates to general household income. The data to figure out the number of people per ward living in houses was found in row 47, and follows along all columns (wards) in the Census. There was also the Average total income in 2019 among recipients ($), which was in row 142. We conducted a detailed VIMO analysis to deeper analyze the data. 
+
 
 
 
