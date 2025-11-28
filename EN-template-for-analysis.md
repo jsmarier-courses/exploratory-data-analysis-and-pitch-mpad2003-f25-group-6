@@ -1,7 +1,5 @@
-**Date TBD**<br>
-**Course Code & Course Name**<br>
+**November 7th, 2025**<br>
 **MPAD 2002A Introductory Data Storytelling**<br>
-**Student's First Name & Last Name**<br>
 **Gabriel Castillo, Avery O'Donnell, Tina-lise Kostopoulos**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
